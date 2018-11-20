@@ -6,3 +6,15 @@ h1 {
   font-family: Georgia, serif;
   color: #fff;
 }
+
+figcaption {
+  font-family: Georgia, serif;
+}
+
+img {
+  border-top: 2px solid #bea586;
+}
+
+.bottom {
+  border-bottom: 2px solid #bea586;
+}
