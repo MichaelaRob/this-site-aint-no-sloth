@@ -5,6 +5,7 @@ html {
 h1 {
   font-family: Georgia, serif;
   color: #fff;
+  text-shadow: 1px 2px 4px rgb(28, 14, 0);
 }
 
 figcaption {
